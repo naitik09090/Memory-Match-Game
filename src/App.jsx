@@ -271,7 +271,7 @@ function App() {
       {gameState === "menu" && (
         <div className="z-20 text-center animate-in zoom-in duration-500">
           <h1 className="text-6xl md:text-8xl font-black text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-indigo-500 mb-6 drop-shadow-[0_0_15px_rgba(99,102,241,0.5)]">
-            ARCANE<br />MEMORY
+            MEMORY<br />MATCH
           </h1>
           <p className={`text-lg mb-8 tracking-wide ${isDarkMode ? "text-slate-400" : "text-slate-600"}`}>Master the grid. Control time.</p>
           <button

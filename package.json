@@ -1,5 +1,5 @@
 {
-  "name": "memory-game",
+  "name": "memory-match",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",

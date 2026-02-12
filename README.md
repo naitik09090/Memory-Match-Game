@@ -1,10 +1,10 @@
-# 🔮 ARCANE MEMORY
+# 🔮 MEMORY MATCH
 
 [![React](https://img.shields.io/badge/React-17.0.2-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-2.7.2-646CFF?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0.13-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
-**Arcane Memory** is a high-fidelity, fantasy-themed memory match game built with React and Tailwind CSS. Step into a world of magic where your memory is your strongest weapon. Navigate through levels of increasing difficulty, manage your Arcane Energy, and unlock powerful skills to clear the grid before the time runs out.
+**Memory Match** is a high-fidelity, fantasy-themed memory match game built with React and Tailwind CSS. Step into a world of magic where your memory is your strongest weapon. Navigate through levels of increasing difficulty, manage your Arcane Energy, and unlock powerful skills to clear the grid before the time runs out.
 
 ---
 
