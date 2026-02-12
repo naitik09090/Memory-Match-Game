@@ -6,8 +6,6 @@
 
 **Arcane Memory** is a high-fidelity, fantasy-themed memory match game built with React and Tailwind CSS. Step into a world of magic where your memory is your strongest weapon. Navigate through levels of increasing difficulty, manage your Arcane Energy, and unlock powerful skills to clear the grid before the time runs out.
 
-![Game Preview Placeholder](https://via.placeholder.com/800x450.png?text=Arcane+Memory+Gameplay)
-
 ---
 
 ## ✨ Features
